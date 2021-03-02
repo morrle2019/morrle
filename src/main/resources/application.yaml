@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: morrle
+  profiles:
+    active: dev
+#  data:
+#    mongodb:
+#      uri: mongodb://localhost/morrle
+#      username: ${MONGODB_USERNAME:mongodb}
+#      password: ${MONGODB_PASSWORD:mongodb}
